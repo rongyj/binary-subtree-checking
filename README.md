@@ -28,5 +28,9 @@ Input: n = 6
 Output: 9
 
 # Usage:
-I included the source code for each problem with different package name. Problem 1 has package name:com.rong.interviews.binarysubtree. The problem 2 has the package name:com.rong.interviews.bitscount.
-There are two junit test cases created to test the sample inputs as above.
+I included the source code for each problem with different package name.
+    Problem 1 has package name:com.rong.interviews.binarysubtree.
+    The problem 2 has the package name:com.rong.interviews.bitscount.
+There are two junit test cases created to test the sample inputs as above:
+    com.rong.interviews.binarysubtree.BinarySubtreeCheckerTest for Problem 1.
+    com.rong.interviews.bitscount.SetBitsCounterTest for Problem 2.
